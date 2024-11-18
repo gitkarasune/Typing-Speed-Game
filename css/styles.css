@@ -72,6 +72,8 @@ textarea:focus {
 .link {
     width: 500px;
     height: 50px;
+    max-width: 800px;
+    margin: 0 auto;
     background-color: white;
     padding: 2rem;
     transition: all .5s ease-in-out;
